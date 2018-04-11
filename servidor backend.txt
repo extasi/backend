@@ -1,0 +1,17 @@
+para conectarnos en este caso usaremos un servidor backend(del lado del servidor):
+primero pondremos en el terminal:  npm init  ,despues pondriamos:  npm install express --save  ,a continuacion: npm install mongoose --save
+despues: npm install body-parser --save 
+creamos un archivo para la entrada del servidor:app.js
+
+node:3000 <-----> mongoDB:27017 
+
+agregar una libreria: npm install bluebird --save
+
+y la gregamos en nuestro archivo app.js
+
+creamos una carpeta que llamaremos:models y dentro una archivo proveedor.js en el que crearemos unos datos para exportarlos
+
+despues creamos una carpeta routes(rutas)
+
+
+
